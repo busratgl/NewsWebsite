@@ -126,12 +126,7 @@ namespace NewsWebsite.Services.Concrete
                 $"The news post titled {newsPostUpdateDto.Title} has been successfully updated.");
         }
 
-        /// <summary>
-        /// Delete method.
-        /// </summary>
-        /// <param name="newsPostId"></param>
-        /// <param name="modifiedByName"></param>
-        /// <returns></returns>
+
         public async Task<IResult> Delete(int newsPostId, string modifiedByName)
         {
             var result = await _unitOfWork.NewsPosts.AnyAsync(n => n.Id == newsPostId);
