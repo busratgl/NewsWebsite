@@ -1,0 +1,12 @@
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\bin\Debug\net5.0\NewsWebsite.Shared.deps.json
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\bin\Debug\net5.0\NewsWebsite.Shared.dll
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\bin\Debug\net5.0\ref\NewsWebsite.Shared.dll
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\bin\Debug\net5.0\NewsWebsite.Shared.pdb
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.csproj.AssemblyReference.cache
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.AssemblyInfoInputs.cache
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.AssemblyInfo.cs
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.csproj.CoreCompileInputs.cache
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.dll
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\ref\NewsWebsite.Shared.dll
+C:\Users\busra\RiderProjects\NewsWebsite\NewsWebsite.Shared\obj\Debug\net5.0\NewsWebsite.Shared.pdb
